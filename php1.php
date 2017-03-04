@@ -1,3 +1,3 @@
-<?php111
+<?php
 
 phpinfo();
